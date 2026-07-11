@@ -1,165 +1,313 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm <span style="color:#00F7FF;">Ashu Kumari</span></h1>
 
-# 👋 Hi, I'm **Ashu Kumari**
+<h3 align="center">
+💻 Java Developer | 📊 Data Science Student | 🤖 Machine Learning | ☁️ Future Data Engineer
+</h3>
 
-### 💻 B.Tech CSE (Data Science) Student • Java • DSA • Machine Learning • Data Engineering
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Developer+☕;Data+Science+Student+📊;Machine+Learning+Explorer+🤖;Future+Data+Engineer+🚀;Building+Projects+Every+Day+💙;Consistency+Beats+Talent+🔥" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Java+Developer;Machine+Learning+Explorer;Future+Data+Engineer;Always+Learning+🚀" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<br>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue)
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+  </a>
 
-</div>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">👩‍💻 About Me</h2>
+
+<p align="center">
+
+🎓 B.Tech CSE (Data Science) Student @ Lovely Professional University
+
+💙 Passionate about Data Engineering, AI & Software Development
+
+🧠 Solving DSA Problems using Java
+
+🚀 Building Real World AI & Data Projects
+
+🎯 Goal: Crack Data Engineering / Software Engineer Role
+
+⚡ Fun Fact: *I believe consistency creates success.*
+
+</p>
+
+---
+
+<h2 align="center">🚀 What I'm Working On</h2>
+
+<p align="center">
+
+🔥 Java + DSA
+
+📊 Data Engineering
+
+🤖 Machine Learning
+
+☁️ Hadoop & Apache Spark
+
+📈 SQL Optimization
+
+💻 Full Stack Basics
+
+</p>
+
+---
+
+<h2 align="center">🛠 Tech Stack</h2>
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+<h3>💻 Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js"/>
+
+</td>
+
+<td align="center">
+
+<h3>🌐 Frontend</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<h3>🗄 Database</h3>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</td>
+
+<td align="center">
+
+<h3>⚙ Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+
+<tr>
+
+<td>
+
+🏥 AI Healthcare Diagnosis System
+
+</td>
+
+<td>
+
+Disease Prediction using Machine Learning
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+📊 Customer Analysis Dashboard
+
+</td>
+
+<td>
+
+Power BI Dashboard
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+🍕 Pizza Sales Dashboard
+
+</td>
+
+<td>
+
+Business Analytics using Tableau
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+🌾 Crop Recommendation System
+
+</td>
+
+<td>
+
+Machine Learning Project
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+🤖 MindMate AI Chatbot
+
+</td>
+
+<td>
+
+Flask + AI APIs
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 <div align="center">
 
-## ✨ About Me
+# 🧠 LeetCode Stats
 
-🎓 B.Tech CSE (Data Science) @ Lovely Professional University
-
-💙 Passionate about AI, Data Engineering & Software Development
-
-🌱 Currently Learning
-
-`Java DSA` • `SQL` • `Machine Learning` • `Hadoop` • `Apache Spark`
-
-🎯 Goals
-
-🔥 Crack a Product-Based Company  
-🚀 Build Impactful Projects  
-💼 Data Engineering Internship
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap"/>
 
 </div>
 
 ---
 
-<div align="center">
+<h2 align="center">📊 GitHub Stats</h2>
 
-## 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,mongodb,git,github,html,css,js,react,nodejs,vscode,linux,docker"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Featured Projects
-
-| 🚀 Project | 💡 Description |
-|------------|----------------|
-| 🏥 AI Healthcare Diagnosis System | AI-powered disease prediction |
-| 🌾 Crop Recommendation System | ML based crop prediction |
-| 📊 Customer Analysis Dashboard | Power BI Analytics |
-| 🍕 Pizza Sales Dashboard | Tableau Dashboard |
-| 🤖 MindMate Chatbot | AI chatbot using Flask |
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
+<p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
 
-</div>
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">🏆 GitHub Trophy</h2>
 
-## 🔥 GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
+<p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4"/>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">📈 Contribution Graph</h2>
 
-## 📈 Contribution Graph
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">🌱 Currently Learning</h2>
 
-## 💻 Coding Profiles
+<p align="center">
 
-🟡 **LeetCode** : https://leetcode.com/u/YOUR_LEETCODE_USERNAME/
+☁️ Hadoop
 
-⚫ **GitHub** : https://github.com/YOUR_GITHUB_USERNAME
+⚡ Apache Spark
 
-🔵 **LinkedIn** : https://linkedin.com/in/YOUR_LINKEDIN
+🧠 Machine Learning
 
-</div>
+📊 Data Engineering
 
----
+💻 System Design
 
-<div align="center">
+🚀 Advanced Java
 
-## 📚 Currently Exploring
-
-✨ Data Engineering  
-✨ Apache Spark  
-✨ Hadoop  
-✨ System Design  
-✨ Advanced Java
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">💬 Quote</h2>
 
-## 💬 Favorite Quote
+<p align="center">
 
-> **"Success is built through consistency, not perfection."**
+> **"Consistency beats talent when talent doesn't stay consistent."** 🚀
 
-</div>
-
----
-
-<div align="center">
-
-## 📫 Connect With Me
-
-<a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">🤝 Connect With Me</h2>
 
-### 🌟 Thanks for Visiting!
+<p align="center">
 
-⭐ If you like my work, don't forget to Star my repositories!
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/>
+</a>
 
-</div>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=120&section=footer"/>
+
+</p>
