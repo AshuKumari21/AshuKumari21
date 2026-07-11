@@ -1,257 +1,165 @@
-<h1 align="center">
-  Hi 👋, I'm Ashu Kumari
-</h1>
+<div align="center">
 
-<h3 align="center">
-💻 B.Tech CSE (Data Science) Student | Java Developer | Data Engineering Enthusiast | Machine Learning Explorer 🚀
-</h3>
+# 👋 Hi, I'm **Ashu Kumari**
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Java+%7C+DSA+%7C+Python+%7C+SQL;Machine+Learning+Enthusiast;Future+Data+Engineer;Always+Learning+New+Things+🚀"/>
-</p>
+### 💻 B.Tech CSE (Data Science) Student • Java • DSA • Machine Learning • Data Engineering
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Java+Developer;Machine+Learning+Explorer;Future+Data+Engineer;Always+Learning+🚀" />
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue)
+
+</div>
 
 ---
 
-# 👩‍💻 About Me
+<div align="center">
 
-🎓 **B.Tech CSE (Data Science)** Student at **Lovely Professional University**
+## ✨ About Me
 
-💙 Passionate about solving real-world problems using **Data, AI & Software Development**
+🎓 B.Tech CSE (Data Science) @ Lovely Professional University
+
+💙 Passionate about AI, Data Engineering & Software Development
 
 🌱 Currently Learning
 
-- Java DSA
-- Data Engineering
-- Hadoop
-- Apache Spark
-- Machine Learning
-- SQL Optimization
+`Java DSA` • `SQL` • `Machine Learning` • `Hadoop` • `Apache Spark`
 
-🎯 2026 Goals
+🎯 Goals
 
-- 🔥 Crack a Product Based Company
-- ⭐ Solve 500+ DSA Problems
-- 🚀 Build Awesome Projects
-- 💼 Land a Data Engineering Internship
+🔥 Crack a Product-Based Company  
+🚀 Build Impactful Projects  
+💼 Data Engineering Internship
+
+</div>
 
 ---
 
-# 🚀 Tech Stack
+<div align="center">
 
-<p align="center">
+## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,mongodb,git,github,html,css,js,react,nodejs,vscode,linux,docker"/>
 
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-</p>
+</div>
 
 ---
 
-# 📚 Currently Exploring
+<div align="center">
 
-```text
-✔ Java DSA
-✔ SQL
-✔ Data Structures
-✔ Algorithms
-✔ Machine Learning
-✔ Hadoop
-✔ Apache Spark
-✔ Data Pipelines
-✔ System Design
-```
+## 🚀 Featured Projects
 
----
+| 🚀 Project | 💡 Description |
+|------------|----------------|
+| 🏥 AI Healthcare Diagnosis System | AI-powered disease prediction |
+| 🌾 Crop Recommendation System | ML based crop prediction |
+| 📊 Customer Analysis Dashboard | Power BI Analytics |
+| 🍕 Pizza Sales Dashboard | Tableau Dashboard |
+| 🤖 MindMate Chatbot | AI chatbot using Flask |
 
-# 🚀 Featured Projects
-
-## 🏥 AI Healthcare Diagnosis System
-
-🧠 AI based disease prediction system
-
-Tech Stack
-
-- Python
-- Machine Learning
-- Flask
+</div>
 
 ---
 
-## 🌾 Crop Recommendation System
+<div align="center">
 
-Predicts best crop based on soil & weather.
+## 📊 GitHub Stats
 
-Tech
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
 
-- Python
-- ML
-- Pandas
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
 
----
-
-## 📊 Customer Analysis Dashboard
-
-Interactive analytics dashboard.
-
-Tools
-
-- Power BI
-- Excel
-- SQL
+</div>
 
 ---
 
-## 🍕 Pizza Sales Dashboard
+<div align="center">
 
-Business Insights Dashboard
-
-Tools
-
-- Tableau
-- SQL
-- Excel
-
----
-
-## 🤖 MindMate AI Chatbot
-
-AI chatbot using LLM APIs
-
-Tech
-
-- Flask
-- Python
-- API
-
----
-
-# 📈 GitHub Stats
-
-> Replace `YOUR_GITHUB_USERNAME` below with your username.
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
+## 🔥 GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophy
+<div align="center">
 
-<p align="center">
+## 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4"/>
 
-</p>
+</div>
 
 ---
 
-# 📊 Contribution Graph
+<div align="center">
 
-<p align="center">
+## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
 
-</p>
+</div>
 
 ---
 
-# 💻 Coding Profiles
+<div align="center">
 
-> Replace with your profile links.
+## 💻 Coding Profiles
 
-🟡 LeetCode : https://leetcode.com/u/YOUR_USERNAME/
+🟡 **LeetCode** : https://leetcode.com/u/YOUR_LEETCODE_USERNAME/
 
-🔵 LinkedIn : https://linkedin.com/in/YOUR_USERNAME
+⚫ **GitHub** : https://github.com/YOUR_GITHUB_USERNAME
 
-⚫ GitHub : https://github.com/YOUR_GITHUB_USERNAME
+🔵 **LinkedIn** : https://linkedin.com/in/YOUR_LINKEDIN
 
----
-
-# 🌟 Fun Facts
-
-✨ Love Learning New Technologies
-
-💙 Coffee + Coding = Happiness ☕
-
-📚 Learning Every Day
-
-🚀 Believe in Consistency
+</div>
 
 ---
 
-# 💬 Quote
+<div align="center">
 
-> "Success doesn't come from what you do occasionally. It comes from what you do consistently."
+## 📚 Currently Exploring
 
----
+✨ Data Engineering  
+✨ Apache Spark  
+✨ Hadoop  
+✨ System Design  
+✨ Advanced Java
 
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+## 💬 Favorite Quote
 
-</p>
+> **"Success is built through consistency, not perfection."**
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### ⭐ Thanks for Visiting My Profile ⭐
+## 📫 Connect With Me
 
-### Happy Coding 🚀
+<a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
-</p>
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Thanks for Visiting!
+
+⭐ If you like my work, don't forget to Star my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+
+</div>
